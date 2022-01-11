@@ -1,7 +1,6 @@
 query AppSettings {
-  appSettings(app: "nakednuts.minicart-freeshipping-bar", version: "1.x")
+  appSettings(app: "vizzent.minicart-freeshipping-bar", version: "1.x")
     @context(provider: "vtex.apps-graphql") {
     message
-
   }
 }
